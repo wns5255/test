@@ -1,0 +1,6 @@
+{
+  "name": "Premium Blue 가전제품 홈페이지",
+  "description": "선명한 블루 컬러와 정밀한 타이포그래피 기반의 고품격 가전제품 홈페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
